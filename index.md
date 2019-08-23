@@ -6,7 +6,8 @@ title: Justin Vrana's CV
 Synthetic biologist, programmer
 
 <div id="webaddress">
-<a href="jvrana@uw.edu">jvrana@uw.edu</a>
+<a href="mailto:jvrana@uw.edu">Jon Doe</a>
+| <a href="jvrana@uw.edu">jvrana@uw.edu</a>
 | <a href="https://jvrana.github.io/markdown-cv/">jvrana.github.io</a>
 | <a href="https://www.linkedin.com/in/justin-vrana-bioe/">LinkedIn</a>
 | <a href="https://www.github.com/jvrana">GitHub</a>
