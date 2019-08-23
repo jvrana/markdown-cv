@@ -6,12 +6,11 @@ title: Justin Vrana's CV
 Synthetic biologist, programmer
 
 <div id="webaddress">
-<a href="mailto:jvrana@uw.edu">Jon Doe</a>
-| <a href="jvrana@uw.edu">jvrana@uw.edu</a>
+<a href="mailto:jvrana@uw.edu">jvrana@uw.edu</a>
 | <a href="https://jvrana.github.io/markdown-cv/">jvrana.github.io</a>
 | <a href="https://www.linkedin.com/in/justin-vrana-bioe/">LinkedIn</a>
 | <a href="https://www.github.com/jvrana">GitHub</a>
-| <a href="https://scholar.google.com/citations?user=X5KqrDIAAAAJ&hl=en">google scholar</a>
+| <a href="https://scholar.google.com/citations?user=X5KqrDIAAAAJ&hl=en">Google Scholar</a>
 </div>
 
 ## Currently
@@ -31,10 +30,11 @@ Synthetic biology, cellular computation, computer-aided design and manufacturing
 `2014-2020`
 __Ph.D, University of Washington-Seattle (expected 2019/2020)__
 
-- Department of Bioengineering
-- Dissertation: Automating the design and construction of engineered S. cerevisiae strains using end-to-end
-computer-aided design, planning, and manufacturing.
-- Advisor: Eric Klavins
+Department of Bioengineering
+
+Dissertation: Automating the design and construction of engineered S. cerevisiae strains using end-to-end computer-aided design, planning, and manufacturing.
+
+Advisor: Eric Klavins
 
 
 
@@ -42,13 +42,14 @@ computer-aided design, planning, and manufacturing.
 __BS (Honors), University of Wisconsin-Madison__
 - Department of Chemistry (Honors in the Major)
 - Department of Philosophy
-- Graduation with Distinction (B.S. 2011, UW-Madison)
+- Graduation with Distinction
 - Dean's List (2007-2011)
 
-### Computation
-
-`2010`
+`2009-2010`
 __Certificate in Computer Science, University of Wisconsin-Madison__
+
+
+### Computation
 
 python, tensorflow, docker, docker-compose
 cloud-computing
@@ -72,6 +73,48 @@ mammalian cell work.
 `2015`
 [__Top prize, 2015 CSN Sandbox Competition__](http://www.csne-erc.org/engage-enable/post/vertigone-takes-top-prize-2015-tech-sandbox-competition)
 For VertiGone, an app & hardware that detects the onset of a fall and helps reorient patients using 3D auditory cues.
+
+## Projects
+
+
+
+## Professional Experience
+
+
+`2018-present`
+[**DARPA Synergistic Design and Discovery (SD2)**](https://www.darpa.mil/program/synergistic-discovery-and-design)
+
+
+`2014-present`
+**Graduate Researcher**<br>
+Lab of Eric Klavins, UW-Seattle<br>
+
+`2018-present`
+**Software lead**<br>
+OLA Simple, Seattle, Washington
+Lead for automation software for innovative point of care lab diagnostics
+
+`2017-2018`
+**Amazon Catalyst Fellow**<br>
+UW-Seattle<br>
+Development of digitally guided protocols and workflows in which users are able to design custom mammalian cell lines,
+develop experimental workflows to assay them, view and analyze data, and execute experiments, all from the comfort of
+a coffee shop.
+
+`2016-2017`
+**Workflow Developer**<br>
+UW BIOFAB, University of Washington-Seattle<br>
+
+
+`2011-2014`
+**Research Assistant**<br>
+University of Colorado-Denver<br>
+Optogenetics. Protein clustering. Yeast and mammalian synthetic biology.
+
+`2008-2011`
+**Research Assistant**<br>
+University of Wisconsin-Madison<br>
+Optical and genomic mapping.
 
 
 ## [Publications](https://scholar.google.com/citations?user=X5KqrDIAAAAJ&hl=en)
@@ -163,43 +206,6 @@ SEED (Synthetic Biology: Engineering, Evolution, and Design), New York City, NY
 **Rational Design of Large Crispr/dCas9 Transcriptional Logic Circuits in Eukaryotic Cells**
 Poster and lightning talk.
 SEED (Synthetic Biology: Engineering, Evolution, and Design), Chicago, IL
-
-## Professional Experience
-
-
-`2018-present`
-[**DARPA Synergistic Design and Discovery (SD2)**](https://www.darpa.mil/program/synergistic-discovery-and-design)
-
-`2014-present`
-**Graduate Researcher**<br>
-Lab of Eric Klavins, UW-Seattle<br>
-
-`2018-present`
-**Software lead**<br>
-OLA Simple, Seattle, Washington
-Lead for automation software for innovative point of care lab diagnostics
-
-`2017-2018`
-**Amazon Catalyst Fellow**<br>
-UW-Seattle<br>
-Development of digitally guided protocols and workflows in which users are able to design custom mammalian cell lines,
-develop experimental workflows to assay them, view and analyze data, and execute experiments, all from the comfort of
-a coffee shop.
-
-`2016-2017`
-**Workflow Developer**<br>
-UW BIOFAB, University of Washington-Seattle<br>
-
-
-`2011-2014`
-**Research Assistant**<br>
-University of Colorado-Denver<br>
-Optogenetics. Protein clustering. Yeast and mammalian synthetic biology.
-
-`2008-2011`
-**Research Assistant**<br>
-University of Wisconsin-Madison<br>
-Optical and genomic mapping.
 
 ## Projects in the News
 
