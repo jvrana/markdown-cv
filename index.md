@@ -19,7 +19,10 @@ PhD Candidate in Bioengineering at the University of Washington (2019/2020)
 
 ### Research interests
 
-Synthetic biology, cellular computation, computer-aided design and manufacturing, laboratory automation
+Synthetic biology \| cellular computation \| computer-aided design and manufacturing \| laboratory automation
+
+I am a trained engineer with 10 years experience in software engineering and synthetic biology. I believe that
+harnessing biology as a engineering material is crucial for the advancement of the human race
 
 ## Education
 
@@ -28,21 +31,23 @@ __Ph.D, University of Washington-Seattle (expected 2019/2020)__
 
 Department of Bioengineering
 
-Dissertation: Automating the design and construction of engineered S. cerevisiae strains using end-to-end computer-aided design, planning, and manufacturing.
-
 Advisor: Eric Klavins
 
-
+Dissertation: Automating the design and construction of engineered S. cerevisiae strains using end-to-end computer-aided design, planning, and manufacturing.
 
 `2007-2010`
 __BS (Honors), University of Wisconsin-Madison__
 - Department of Chemistry (Honors in the Major)
 - Department of Philosophy
-- Graduation with Distinction
-- Dean's List (2007-2011)
+- _Graduation with Distinction_
+- _Dean's List (2007-2011)_
 
 `2009-2010`
 __Certificate in Computer Science, University of Wisconsin-Madison__
+
+## Technical Skills
+
+
 
 ### Computation
 
@@ -217,15 +222,15 @@ Science Translational Medicine (__in review__)
 
 `2019`
 **Implementation of an interactive mobile application to pilot a same-day HIV drug resistance assay from whole-blood in Kenya.**<br>
-Justin D Vrana, Ingrid A  Beck, Nuttada Panpradist, Nikki Hilga, Daisy Ko, Ruth Kanthula, Bhavna Chohan, James Lai, Michael Chung, Eric Klavins, Lisa M Frenkel, Barry Lutz<br>
+**Justin Vrana**, Ingrid A  Beck, Nuttada Panpradist, Nikki Hilga, Daisy Ko, Ruth Kanthula, Bhavna Chohan, James Lai, Michael Chung, Eric Klavins, Lisa M Frenkel, Barry Lutz<br>
 
 `2019`
 **End-to-end integration of experiment design, execution and analysis for engineered biological systems.**<br>
-Justin D. Vrana, Ben Keller, Dany Fu, Andrei Lapets, Douglas Densmore, Eric Klavins<br>
+**Justin Vrana**, Ben Keller, Dany Fu, Andrei Lapets, Douglas Densmore, Eric Klavins<br>
 
 `2020`
 **Characterization and design of CRISPR-based cellular information processing systems in mammalian cells using single cell RNA-Seq.**<br>
-Justin D. Vrana, Eric Klavins<br>
+**Justin Vrana**, Eric Klavins<br>
 
 ### Invited Talks
 
