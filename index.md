@@ -3,7 +3,7 @@ layout: cv
 title: Justin Vrana's CV
 ---
 # Justin Vrana
-Synthetic biologist, programmer
+Synthetic biologist, researcher, programmer
 
 <div id="webaddress">
 <a href="mailto:jvrana@uw.edu">jvrana@uw.edu</a>
@@ -16,10 +16,6 @@ Synthetic biologist, programmer
 ## Currently
 
 PhD Candidate in Bioengineering at the University of Washington (2019/2020)
-
-### Specialized in
-
-
 
 ### Research interests
 
@@ -48,11 +44,25 @@ __BS (Honors), University of Wisconsin-Madison__
 `2009-2010`
 __Certificate in Computer Science, University of Wisconsin-Madison__
 
-
 ### Computation
 
-python, tensorflow, docker, docker-compose
-cloud-computing
+Programming Languages: Python (strong), Ruby (strong), JavaScript, Java, C/C++
+
+Web Development: Ruby on Rails, React, Jekyll, HTML, CSS, Bootstrap
+
+Software tools: Git, GitHub, BASH/UNIX commands
+
+Modeling and data analysis: TensorFlow, NumPy, SciPy, graph neural networks, dynamical modeling, ODE simulation/modeling
+
+### Wetlab
+
+Yeast: cell culture, transformations, genomic integrations, CRISPR multiplex integration
+
+Mammalian: cell culture, plasmid transfections, lentivirus production, microscopy
+
+Molecular biology: gibson assembly, golden gate, HT library cloning
+
+Assay: flow cytometery, cell sorting, illumina NGS, single-cell RNA Seq
 
 ## Awards
 
@@ -74,47 +84,75 @@ mammalian cell work.
 [__Top prize, 2015 CSN Sandbox Competition__](http://www.csne-erc.org/engage-enable/post/vertigone-takes-top-prize-2015-tech-sandbox-competition)
 For VertiGone, an app & hardware that detects the onset of a fall and helps reorient patients using 3D auditory cues.
 
-## Projects
+## Software Projects
 
+`2019-present`
+[Terrarium](https://github.com/jvrana/Terrarium)<br>
+Terrarium is a dynamic computer-aided process planner ([CAPP](https://en.wikipedia.org/wiki/Computer-aided_process_planning))
+for biology designed for agile manufacturing of biological products, such as E Coli & Yeast strains, or Mammalian cell
+lines. The software automatically plans scientific experiments in Aquarium using historical planning data and current
+laboratory inventory and solves an MST optimization problem to give optimal and valid operational workflows.
 
+`2017-present`
+[DASi Automated DNA Assembly](https://github.com/jvrana/DASi-DNA-Design)<br>
+DASi is an automatic DNA cloning plan designer aimed for operating on small budgets by
+focusing on material re-use and a dead-simple user interface. The software converts a nucleotide sequence,
+or a library of sequences, to an executable molecular assembly plan while optimizing material cost, assembly
+efficiency, and assembly time. No molecular biology expertise is required to use DASi.
+DASi produced plans can be automatically executed using a biofabrication facility
+(such as the [UW-BIOFAB](http://www.uwbiofab.org/).
 
-## Professional Experience
+`2016-present`
+[Aquarium](https://www.aquarium.bio/)/[Trident](https://github.com/klavinslab/trident)<br>
+Aquarium, a open-source human-in-the-loop laboratory automation system that enables rapid,
+flexible, and reproducible workflow development and execution. Trident (developed by Justin Vrana),
+is the fully-featured Python interface for Aquarium that allows high-throughput scripted experiment
+submission, fast data mining, and LIMS browsing.
 
+### Mini Projects
+
+[BenchlingAPI](https://github.com/klavinslab/benchling-api) The unofficial Python API for Benchling.
+
+[jdna](https://jvrana.github.io/jdna/index.html) A Python DNA sequence editor that represents sequences as a linked
+list. It includes basic molecular reaction simulations and a viewer class.
+
+[pyblast-bio](https://github.com/jvrana/pyblast) Python wrapper for installing and using NCBI's BLAST algorithms.
+
+[keats](https://github.com/jvrana/keats) Keats is an Python build, installation, and workflow manager.
+
+## Experience
 
 `2018-present`
-[**DARPA Synergistic Design and Discovery (SD2)**](https://www.darpa.mil/program/synergistic-discovery-and-design)
+[**Researcher for DARPA Synergistic Design and Discovery (SD2)**](https://www.darpa.mil/program/synergistic-discovery-and-design)
+UW-Seattle
+Cloud computing. Automation tools. End-to-end design, planning, and manufacturing tools for biology. TACC infrastructure.
 
 
 `2014-present`
-**Graduate Researcher**<br>
-Lab of Eric Klavins, UW-Seattle<br>
+**Graduate Researcher**, Lab of Eric Klavins, UW-Seattle<br>
+Transcriptional logic. Dynamic genetic circuits. Biophysical modeling.
 
 `2018-present`
-**Software lead**<br>
-OLA Simple, Seattle, Washington
+**Software lead**, OLA Simple, Seattle, Washington
 Lead for automation software for innovative point of care lab diagnostics
 
 `2017-2018`
-**Amazon Catalyst Fellow**<br>
-UW-Seattle<br>
+**Amazon Catalyst Fellow** UW-Seattle<br>
 Development of digitally guided protocols and workflows in which users are able to design custom mammalian cell lines,
 develop experimental workflows to assay them, view and analyze data, and execute experiments, all from the comfort of
 a coffee shop.
 
 `2016-2017`
-**Workflow Developer**<br>
-UW BIOFAB, University of Washington-Seattle<br>
+**Workflow Developer** UW BIOFAB, University of Washington-Seattle<br>
 
 
 `2011-2014`
-**Research Assistant**<br>
-University of Colorado-Denver<br>
-Optogenetics. Protein clustering. Yeast and mammalian synthetic biology.
+**Research Assistant**<br> University of Colorado-Denver<br>
+Lab of Chandra Tucker. Optogenetics. Protein clustering. Yeast and mammalian synthetic biology.
 
 `2008-2011`
-**Research Assistant**<br>
-University of Wisconsin-Madison<br>
-Optical and genomic mapping.
+**Research Assistant** University of Wisconsin-Madison<br>
+Lab of David Schwartz. Optical and genomic mapping.
 
 
 ## [Publications](https://scholar.google.com/citations?user=X5KqrDIAAAAJ&hl=en)
@@ -207,6 +245,13 @@ SEED (Synthetic Biology: Engineering, Evolution, and Design), New York City, NY
 Poster and lightning talk.
 SEED (Synthetic Biology: Engineering, Evolution, and Design), Chicago, IL
 
+## Teaching
+
+`2019`
+**Teaching Assistant**, UW-Seattle
+Electrical and computer engineering 590: Advanced Programming for Embedded Systems.
+Course on C/C++. Embedded device communication using C/C++. Google testing framework. Automated grading scripts.
+
 ## Projects in the News
 
 `2018`
@@ -223,10 +268,6 @@ SEED (Synthetic Biology: Engineering, Evolution, and Design), Chicago, IL
 
 `2015`
 [Changing the world: Faculty and students demonstrate CSE’s impact to the UW Foundation Board](https://news.cs.washington.edu/2015/09/15/changing-the-world-faculty-and-students-demonstrate-cses-impact-to-the-uw-foundation-board/)
-
-## For fun
-
-I'm an avid rock climber who loves his German Shepherd.
 
 <!-- ### Footer
 
