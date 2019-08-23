@@ -7,7 +7,7 @@ Synthetic biologist, programmer
 
 <div id="webaddress">
 <a href="jvrana@uw.edu">jvrana@uw.edu</a>
-| [jvrana.github.io](jvrana.github.io)
+| <a href="https://jvrana.github.io/markdown-cv/">jvrana.github.io</a>
 | <a href="https://www.linkedin.com/in/justin-vrana-bioe/">LinkedIn</a>
 | <a href="https://www.github.com/jvrana">GitHub</a>
 | <a href="https://scholar.google.com/citations?user=X5KqrDIAAAAJ&hl=en">google scholar</a>
