@@ -18,14 +18,31 @@ Synthetic biologist, researcher, programmer
 
 ## Currently
 
-PhD Candidate in Bioengineering at the University of Washington (2019/2020)
+**PhD Candidate in Bioengineering at the University of Washington**<br>*(expected graduation: 2019/2020)*
+
+I am a trained engineer with 10 years experience in software engineering and synthetic biology.
+I believe in the power of using biology as an engineering medium to improve our world. To this end,
+I am passionate about building genetic and software tools that facilitate rapid prototyping and engineering
+of new organisms.
+
+During my PhD work, I have built among the 
+[largest genetic circuits using CRISPR in Baker's yeast (2017)](https://www.nature.com/articles/ncomms15459).
+As an extension to this work, I am currently developing a one-pot high-throughput single cell RNA-seq assay for
+characterizing 100,000s of randomly generated genetic circuits in human cells, and am employing deep learning
+to understand genetic part performance.
+
+Additionally, I am working with [DAPRA](https://www.darpa.mil/program/synergistic-discovery-and-design)
+to develop a computer-aided manufacturing system to automate the design-build-test-learn cycle
+for engineered organisms. To automate experiments, we use the [Aquarium](https://www.aquarium.bio), a lab operating system that automates
+and tracks experiment execution using human-in-the-loop automation. I have built out a fully-featured Python
+interface for this system ([Trident](www.github.com/klavinslab/trident)). Using these tools, I have recently
+deployed machine-learning to automate *S. cerevisiae* strain construction and are currently using the 
+software ([Terrarium](www.github.com/jvrana/Terrarium)) to engineer new cell behaviors in yeast using CRISPR 
+dCas9 gene circuits.
 
 ### Research interests
 
-Synthetic biology \| cellular computation \| computer-aided design and manufacturing \| laboratory automation
-
-I am a trained engineer with 10 years experience in software engineering and synthetic biology. I believe that
-harnessing biology as a engineering material is crucial for the advancement of the human race
+Synthetic biology \| cellular computation \| computer-aided design and manufacturing \| laboratory automation \| democratization of science
 
 ## Education
 
