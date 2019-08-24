@@ -137,7 +137,7 @@ DASi produced plans can be automatically executed using a biofabrication facilit
 Aquarium, a open-source human-in-the-loop laboratory automation system that enables rapid,
 flexible, and reproducible workflow development and execution. Trident (developed by Justin Vrana),
 is the fully-featured Python interface for Aquarium that allows high-throughput scripted experiment
-submission, fast data mining, and LIMS browsing.
+submission, fast data mining, and machine learning on experimental data.
 
 ### Mini Projects
 
