@@ -2,6 +2,7 @@
 layout: cv
 title: Justin Vrana's CV
 ---
+
 <!-- ### TODO update project description, update summary -->
 
 
@@ -26,7 +27,7 @@ Synthetic biology \| cellular computation \| computer-aided design and manufactu
 
 ## Summary
 
-I am a trained engineer with 10 years experience in software engineering and synthetic biology.
+I am a trained researcher with 10 years experience in software engineering and synthetic biology.
 I believe in the power of using biology as an engineering medium to improve our world. To this end,
 I am passionate about building genetic and software tools that facilitate rapid prototyping and engineering
 of new organisms.
@@ -48,8 +49,7 @@ dCas9 gene circuits.
 
 I am currently finishing up a few projects and related publications before 
 my anticipated graduate in 2019/2020. I am searching
-for jobs at intersection of software engineering and synthetic biology for companies that 
-make a positive environmental or societal impacts.
+for jobs at intersection of software engineering and synthetic biology.
 
 ## Education
 
@@ -92,7 +92,7 @@ Mammalian: cell culture, plasmid transfections, lentivirus production, microscop
 
 Molecular biology: gibson assembly, golden gate, HT library cloning
 
-Assay: flow cytometery, cell sorting, illumina NGS, single-cell RNA Seq
+Assay: flow cytometery, cell sorting, Illumina NGS, single-cell RNA Seq
 
 ## Awards
 
@@ -163,31 +163,41 @@ list. It includes basic molecular reaction simulations and a viewer class.
 
 [pyblast-bio](https://github.com/jvrana/pyblast) Python wrapper for installing and using NCBI's BLAST algorithms.
 
-[keats](https://github.com/jvrana/keats) Keats is an Python build, installation, and workflow manager.
+[keats](https://github.com/jvrana/keats) Keats is a Python build, installation, and workflow manager.
 
 ## Experience
 
 `2018-present`
 [**Researcher for DARPA Synergistic Design and Discovery (SD2)**](https://www.darpa.mil/program/synergistic-discovery-and-design)
-UW-Seattle
-Developed python automation tools for automated planning of 
+UW-Seattle<br>
+I am currently the lead for design and build for yeast construction for the SD2 DARPA program, for which
+I consult on building genetic circuit and act as software developer. I have developed python-based automation tools
+ for automating the design and build of engineered yeast strains.
+Borrowing concepts from computer-aided manufacturing, I created the first computer-aided process planner 
+for biology, allowing researchers to design and build new plasmids and yeast strains with no prior knowledge of
+molecular biology or laboratory operations. Currently, I am working with mathematicians at Duke and 
+Montana State University to implement and test a new dynamic genetic circuit design tool. So far, we have used
+the automation tools I have developed to automatically design experiments to build and test 350 new yeast strains and
+plan over 2000 laboratory operations. Using docker and cloud computing tools, I deployed my software to 
+the Texas Advanced Computer Center (TACC) cluster for automated integration with other teams within the program.
+
 
 `2014-present`
 **Graduate Researcher** UW-Seattle<br>
 Lab of Eric Klavins, Deparment of Bioengineering<br>
-* Designed, built and tested genetic circuits for digital computation using CRISPR/dCas9
+I designed, built and tested genetic circuits for digital computation using CRISPR/dCas9
 in yeast. At the time (2017), built the largest genetic circuit ever constructed in a 
 eukaryote. Performed mathematical modeling of behavior and fitted experimental results using
-differential evolution optimization. Performed parameter sensitivity analysis
-* Continuous development and testing of Aquarium, a laboratory operating system for 
-reproducible experimental execution. Main developer for Aquarium's Python API and machine 
+differential evolution optimization. Performed parameter sensitivity analysis. In addition to this
+research, I have also performed continuous development and testing of Aquarium, a laboratory operating system for 
+reproducible experimental execution. I was the main developer for Aquarium's Python API and machine 
 learning tools for data mining and experiment design tools, contributing over 350K lines of code.
 
 `2017-2019`
 **Software lead**, OLA Simple, Seattle, Washington<br>
-Lead for automation software for innovative point of care lab diagnostics. Developed
+I was the lead for the automation software that paired with an innovative point of care lab diagnostics. I developed
 code (Ruby/Ruby-on-Rails/Docker) the provides inventory tracking and highly reproducible protocol instruction 
-for clinical diagnostic assay to detect drug-resistance in HIV patients. Successfully implemented
+for clinical diagnostic assay to detect drug-resistance in HIV patients. I traveled to  implemented
 the diagnostic kit and software in Nairobi, Kenya to simulate low-resource settings. 98% of new users were able
 successfully complete diagnostic assay using the automation software.
 
