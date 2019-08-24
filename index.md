@@ -41,12 +41,13 @@ Additionally, I am working with [DAPRA](https://www.darpa.mil/program/synergisti
 to develop a computer-aided manufacturing system to automate the design-build-test-learn cycle
 for engineered organisms. To automate experiments, we use the [Aquarium](https://www.aquarium.bio), a lab operating system that automates
 and tracks experiment execution using human-in-the-loop automation. I have built out a fully-featured Python
-interface for this system ([Trident](www.github.com/klavinslab/trident)). Using these tools, I have recently
+interface for this system ([Trident](https://www.github.com/klavinslab/trident)). Using these tools, I have recently
 deployed machine-learning to automate *S. cerevisiae* strain construction and are currently using the 
-software ([Terrarium](www.github.com/jvrana/Terrarium)) to engineer new cell behaviors in yeast using CRISPR 
+software ([Terrarium](https://www.github.com/jvrana/Terrarium)) to engineer new cell behaviors in yeast using CRISPR 
 dCas9 gene circuits.
 
-I am currently finishing up these two projects before my anticipated graduate in 2019/2020 and am looking
+I am currently finishing up these two projects and related publications before 
+my anticipated graduate in 2019/2020 and am looking
 for jobs at intersection of software engineering and synthetic biology.
 
 ## Education
