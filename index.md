@@ -76,11 +76,11 @@ __Certificate in Computer Science, University of Wisconsin-Madison__
 
 ### Computation
 
-Programming Languages: Python (strong), Ruby (strong), JavaScript, Java, C/C++, BASH
+Programming Languages: Python, Ruby, JavaScript, Java, C/C++, BASH
 
 Web Development: Flask, Ruby on Rails, React, Jekyll, HTML, CSS, Bootstrap
 
-Software tools: Git, GitHub, Docker, Docker-Compose, UNIX commands
+Software tools: Git, GitHub, Docker, Docker-Compose, SQL, UNIX commands
 
 Modeling and data analysis: TensorFlow, graph neural networks, NumPy, SciPy, dynamical modeling, ODE simulation/modeling
 
@@ -170,13 +170,18 @@ list. It includes basic molecular reaction simulations and a viewer class.
 `2018-present`
 [**Researcher for DARPA Synergistic Design and Discovery (SD2)**](https://www.darpa.mil/program/synergistic-discovery-and-design)
 UW-Seattle
-Cloud computing. Automation tools. End-to-end design, planning, and manufacturing tools for biology. TACC infrastructure.
-
+Developed python automation tools for automated planning of 
 
 `2014-present`
 **Graduate Researcher** UW-Seattle<br>
 Lab of Eric Klavins, Deparment of Bioengineering<br>
-Transcriptional logic. Dynamic genetic circuits. Biophysical modeling.
+* Designed, built and tested genetic circuits for digital computation using CRISPR/dCas9
+in yeast. At the time (2017), built the largest genetic circuit ever constructed in a 
+eukaryote. Performed mathematical modeling of behavior and fitted experimental results using
+differential evolution optimization. Performed parameter sensitivity analysis
+* Continuous development and testing of Aquarium, a laboratory operating system for 
+reproducible experimental execution. Main developer for Aquarium's Python API and machine 
+learning tools for data mining and experiment design tools, contributing over 350K lines of code.
 
 `2017-2019`
 **Software lead**, OLA Simple, Seattle, Washington<br>
@@ -194,7 +199,7 @@ a coffee shop.
 
 `2016-2017`
 **Workflow Developer** UW BIOFAB, University of Washington-Seattle<br>
-Founding member of the UW-BIOFAB. Developed highly reproducible
+Founding member of the synthetic biology foundry UW-BIOFAB. Developed highly reproducible
 human-in-the-loop automation workflows for molecular cloning and yeast
 strain construction. Consulted team on scientific validity of experiments 
 and procedure.
@@ -202,28 +207,24 @@ and procedure.
 `2011-2014`
 **Research Assistant** University of Colorado-Denver<br>
 Lab of Chandra Tucker. 
-Optogenetics. Protein clustering. Yeast and mammalian synthetic biology.
-Characterization of light dependent dimerization of phytochrome and cryptochrome proteins.
- Engineering of photoreceptors proteins for use as novel ontogenetic tools
- Exploration of non-amyloid protein aggregation and protein recycling in yeast and mammalian cells
- Development of in vivo protein misfolding reporter
-Development of light inducible systems for gene expression, protein targeting, endocytosis, actin
-polymerization
+Developed light inducible systems for gene expression, protein targeting, endocytosis, actin
+polymerizationin both yeast and mammalian cells. Characterized light dependent dimerization of 
+phytochrome and cryptochrome proteins to develop novel red/blue light inducible protein dimerization 
+systems. Analyzed of non-amyloid protein aggregation to understand protein recycling in yeast and 
+mammalian cells. Developed code and hardware for optogenetic [light delivery systems](https://github.com/jvrana/OptogeneticsLightBox).
 
 `2008-2011`
 **Research Assistant** University of Wisconsin-Madison<br>
 Lab of David C Schwartz, Department of Chemistry and Genetics<br>
-Optical and genomic mapping. Developed platform 
-for single molecule dynamic studies and confined 2-dimensional biochemistry. 
-High-throughput genome optical mapping of bacterial, plant, and human genomes.
+Developed platform for single molecule dynamic studies and confined 2-dimensional biochemistry. 
+Used lab built genomic optical mapping to construct low-resolution genome maps for bacterial, plant, and human genomes.
 Used university high-throughput computing cluster to assembly whole genomes.
 
 `2010–2011`
 **Research Intern** University of Wisconsin International Genetically Engineered Machines Team (iGEM)<br>
 Lab of Brian Pfleger, Department of Chemical and Biological Engineering<br>
 Developed of recombination based genetic circuit in E. Coli for detection of sequential environmental input
-Developed of bacterial peptide delivery system for probiotic therapy. Helped bring team to Wisconsin's
-first iGEM gold award.
+Developed of bacterial peptide delivery system for probiotic therapy.
 
 `2008-2009`
 **Undergraduate Research Scholar** University of Wisconsin-Madison<br>
