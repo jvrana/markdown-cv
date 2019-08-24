@@ -20,6 +20,12 @@ Synthetic biologist, researcher, programmer
 
 **PhD Candidate in Bioengineering at the University of Washington**<br>*(expected graduation: 2019/2020)*
 
+### Research interests
+
+Synthetic biology \| cellular computation \| computer-aided design and manufacturing \| laboratory automation \| democratization of science
+
+## Summary
+
 I am a trained engineer with 10 years experience in software engineering and synthetic biology.
 I believe in the power of using biology as an engineering medium to improve our world. To this end,
 I am passionate about building genetic and software tools that facilitate rapid prototyping and engineering
@@ -40,9 +46,8 @@ deployed machine-learning to automate *S. cerevisiae* strain construction and ar
 software ([Terrarium](www.github.com/jvrana/Terrarium)) to engineer new cell behaviors in yeast using CRISPR 
 dCas9 gene circuits.
 
-### Research interests
-
-Synthetic biology \| cellular computation \| computer-aided design and manufacturing \| laboratory automation \| democratization of science
+I am currently finishing up these two projects before my anticipated graduate in 2019/2020 and am looking
+for jobs at intersection of software engineering and synthetic biology.
 
 ## Education
 
