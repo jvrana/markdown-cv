@@ -62,7 +62,7 @@ Advisor: Eric Klavins
 Dissertation: Automating the design and construction of engineered S. cerevisiae strains using end-to-end computer-aided design, planning, and manufacturing.
 
 `2007-2010`
-__BS (Honors), University of Wisconsin-Madison__
+__BS, University of Wisconsin-Madison__
 - Department of Chemistry (Honors in the Major)
 - Department of Philosophy
 - _Graduation with Distinction_
@@ -73,17 +73,15 @@ __Certificate in Computer Science, University of Wisconsin-Madison__
 
 ## Technical Skills
 
-
-
 ### Computation
 
-Programming Languages: Python (strong), Ruby (strong), JavaScript, Java, C/C++
+Programming Languages: Python (strong), Ruby (strong), JavaScript, Java, C/C++, BASH
 
-Web Development: Ruby on Rails, React, Jekyll, HTML, CSS, Bootstrap
+Web Development: Flask, Ruby on Rails, React, Jekyll, HTML, CSS, Bootstrap
 
-Software tools: Git, GitHub, BASH/UNIX commands
+Software tools: Git, GitHub, Docker, Docker-Compose, UNIX commands
 
-Modeling and data analysis: TensorFlow, NumPy, SciPy, graph neural networks, dynamical modeling, ODE simulation/modeling
+Modeling and data analysis: TensorFlow, graph neural networks, NumPy, SciPy, dynamical modeling, ODE simulation/modeling
 
 ### Wetlab
 
@@ -96,6 +94,8 @@ Molecular biology: gibson assembly, golden gate, HT library cloning
 Assay: flow cytometery, cell sorting, illumina NGS, single-cell RNA Seq
 
 ## Awards
+
+### graduate
 
 `2018`
 [__DLA Piper $2,500 Best Idea with Global Reach__](https://bioe.uw.edu/a-alpha-bio-nanodropper-ola-simple-finish-strong-win-32500-at-2018-uw-business-plan-competition/)
@@ -114,6 +114,22 @@ mammalian cell work.
 `2015`
 [__Top prize, 2015 CSN Sandbox Competition__](http://www.csne-erc.org/engage-enable/post/vertigone-takes-top-prize-2015-tech-sandbox-competition)
 For VertiGone, an app & hardware that detects the onset of a fall and helps reorient patients using 3D auditory cues.
+
+### undergraduate
+
+`2011`
+
+`2010`
+iGEM Gold Award
+
+`2008`
+Sophomore Honors Research Apprentice Grant
+
+`2007-2010`
+William F. Vilas Grant
+
+`2007-2011`
+Anthony Delorenzo Grant
 
 ## Software Projects
 
@@ -181,15 +197,46 @@ culturing, transfections, & lentiviral production and transfections.
 
 `2016-2017`
 **Workflow Developer** UW BIOFAB, University of Washington-Seattle<br>
-
+Founding member of the UW-BIOFAB. Developed highly reproducible
+human-in-the-loop automation workflows for molecular cloning and yeast
+strain construction. Consulted team on scientific validity of experiments 
+and procedure.
 
 `2011-2014`
 **Research Assistant**<br> University of Colorado-Denver<br>
 Lab of Chandra Tucker. Optogenetics. Protein clustering. Yeast and mammalian synthetic biology.
+Characterization of light dependent dimerization of phytochrome and cryptochrome proteins.
+ Engineering of photoreceptors proteins for use as novel ontogenetic tools
+ Exploration of non-amyloid protein aggregation and protein recycling in yeast and mammalian cells
+ Development of in vivo protein misfolding reporter
+Development of light inducible systems for gene expression, protein targeting, endocytosis, actin
+polymerization
+
+`2010–2011`
+**Research Intern**<br> University of Wisconsin International Genetically Engineered Machines Team (iGEM)
+Lab of Brian Pfleger, Department of Chemical and Biological Engineering
+Developed of recombination based genetic circuit in E. Coli for detection of sequential environmental input
+Developed of bacterial peptide delivery system for probiotic therapy. Helped bring team to Wisconsin's
+first iGEM gold award.
+
+
+`2008-2009`
+**Undergraduate Research Scholar**<br> University of Wisconsin-Madison
+Lab of Lingjun Li. Used MALDI TOF/TOF mass spectrometry to analyze
+peptide-level responses to environmental stress in crustaceans.
+
+`2007-2008`
+**Undergraduate Researcher**<br> University of Wisconsin-Madison
+Lab of Mark Brownfield.
+Used immunihistochemistry to identify lcoation of serotonin receptor 
+variants in rat brain and adrenal glands.
 
 `2008-2011`
 **Research Assistant** University of Wisconsin-Madison<br>
-Lab of David Schwartz. Optical and genomic mapping.
+Lab of David Schwartz. Optical and genomic mapping. Developed platform 
+for single molecule dynamic studies and confined 2-dimensional biochemistry. 
+High-throughput genome optical mapping of bacterial, plant, and human genomes.
+Used university high-throughput computing cluster to assembly whole genomes.
 
 
 ## [Publications](https://scholar.google.com/citations?user=X5KqrDIAAAAJ&hl=en)
