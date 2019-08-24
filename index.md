@@ -37,7 +37,9 @@ During my PhD work, I have built among the
 Currently, I am working on high-throughput genetic circuit characterization methods in human cells
 and using deep learning to understand synthetic gene circuits. Additionally, I am working with [DAPRA](https://www.darpa.mil/program/synergistic-discovery-and-design)
 to develop a computer-aided manufacturing system to automate the design-build-test-learn cycle
-for engineered organisms.
+for engineered organisms. Related to this work, I've created several projects related to lab automation,
+including an Amazon Catalyst-backed project for developing a mammalian engineering cloud laboratory and
+a collaborative project to improve reproducibility of clinical laboratory tests.
 
 I am currently finishing up a few projects and related publications before 
 my anticipated graduate in 2019/2020. I am searching
