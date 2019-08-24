@@ -46,9 +46,10 @@ deployed machine-learning to automate *S. cerevisiae* strain construction and ar
 software ([Terrarium](https://www.github.com/jvrana/Terrarium)) to engineer new cell behaviors in yeast using CRISPR 
 dCas9 gene circuits.
 
-I am currently finishing up these two projects and related publications before 
-my anticipated graduate in 2019/2020 and am looking
-for jobs at intersection of software engineering and synthetic biology.
+I am currently finishing up a few projects and related publications before 
+my anticipated graduate in 2019/2020. I am searching
+for jobs at intersection of software engineering and synthetic biology for companies that 
+make a positive environmental or societal impacts.
 
 ## Education
 
@@ -95,8 +96,6 @@ Assay: flow cytometery, cell sorting, illumina NGS, single-cell RNA Seq
 
 ## Awards
 
-### graduate
-
 `2018`
 [__DLA Piper $2,500 Best Idea with Global Reach__](https://bioe.uw.edu/a-alpha-bio-nanodropper-ola-simple-finish-strong-win-32500-at-2018-uw-business-plan-competition/)
 For for OLASimple, a start up centered around a drug-resistance detection diagnostic
@@ -115,9 +114,8 @@ mammalian cell work.
 [__Top prize, 2015 CSN Sandbox Competition__](http://www.csne-erc.org/engage-enable/post/vertigone-takes-top-prize-2015-tech-sandbox-competition)
 For VertiGone, an app & hardware that detects the onset of a fall and helps reorient patients using 3D auditory cues.
 
-### undergraduate
-
-`2011`
+`2010`
+Phi Beta Kappa
 
 `2010`
 iGEM Gold Award
