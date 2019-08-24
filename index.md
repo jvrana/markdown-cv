@@ -176,24 +176,23 @@ Cloud computing. Automation tools. End-to-end design, planning, and manufacturin
 
 
 `2014-present`
-**Graduate Researcher**, Lab of Eric Klavins, UW-Seattle<br>
+**Graduate Researcher** UW-Seattle<br>
+Lab of Eric Klavins, Deparment of Bioengineering<br>
 Transcriptional logic. Dynamic genetic circuits. Biophysical modeling.
 
-`2018-present`
-**Software lead**, OLA Simple, Seattle, Washington
+`2017-2019`
+**Software lead**, OLA Simple, Seattle, Washington<br>
 Lead for automation software for innovative point of care lab diagnostics. Developed
 code (Ruby/Ruby-on-Rails/Docker) the provides inventory tracking and highly reproducible protocol instruction 
 for clinical diagnostic assay to detect drug-resistance in HIV patients. Successfully implemented
-the diagnostic kit and software in Nairobi, Kenya to simulate low-resource settings.
-51/52 of researchers were able to successfully complete diagnostic assay
-using the software, many having never touched a pipette before.
+the diagnostic kit and software in Nairobi, Kenya to simulate low-resource settings. 98% of new users were able
+successfully complete diagnostic assay using the automation software.
 
 `2017-2018`
 **Amazon Catalyst Fellow** UW-Seattle<br>
 Development of digitally guided protocols and workflows in which users are able to design custom mammalian cell lines,
 develop experimental workflows to assay them, view and analyze data, and execute experiments, all from the comfort of
-a coffee shop. Developed automation workflows for mammalian cell synthetic biology, including
-culturing, transfections, & lentiviral production and transfections.
+a coffee shop.
 
 `2016-2017`
 **Workflow Developer** UW BIOFAB, University of Washington-Seattle<br>
@@ -203,8 +202,9 @@ strain construction. Consulted team on scientific validity of experiments
 and procedure.
 
 `2011-2014`
-**Research Assistant**<br> University of Colorado-Denver<br>
-Lab of Chandra Tucker. Optogenetics. Protein clustering. Yeast and mammalian synthetic biology.
+**Research Assistant** University of Colorado-Denver<br>
+Lab of Chandra Tucker. 
+Optogenetics. Protein clustering. Yeast and mammalian synthetic biology.
 Characterization of light dependent dimerization of phytochrome and cryptochrome proteins.
  Engineering of photoreceptors proteins for use as novel ontogenetic tools
  Exploration of non-amyloid protein aggregation and protein recycling in yeast and mammalian cells
@@ -212,32 +212,32 @@ Characterization of light dependent dimerization of phytochrome and cryptochrome
 Development of light inducible systems for gene expression, protein targeting, endocytosis, actin
 polymerization
 
-`2010–2011`
-**Research Intern**<br> University of Wisconsin International Genetically Engineered Machines Team (iGEM)
-Lab of Brian Pfleger, Department of Chemical and Biological Engineering
-Developed of recombination based genetic circuit in E. Coli for detection of sequential environmental input
-Developed of bacterial peptide delivery system for probiotic therapy. Helped bring team to Wisconsin's
-first iGEM gold award.
-
-
-`2008-2009`
-**Undergraduate Research Scholar**<br> University of Wisconsin-Madison
-Lab of Lingjun Li. Used MALDI TOF/TOF mass spectrometry to analyze
-peptide-level responses to environmental stress in crustaceans.
-
-`2007-2008`
-**Undergraduate Researcher**<br> University of Wisconsin-Madison
-Lab of Mark Brownfield.
-Used immunihistochemistry to identify lcoation of serotonin receptor 
-variants in rat brain and adrenal glands.
-
 `2008-2011`
 **Research Assistant** University of Wisconsin-Madison<br>
-Lab of David Schwartz. Optical and genomic mapping. Developed platform 
+Lab of David C Schwartz, Department of Chemistry and Genetics<br>
+Optical and genomic mapping. Developed platform 
 for single molecule dynamic studies and confined 2-dimensional biochemistry. 
 High-throughput genome optical mapping of bacterial, plant, and human genomes.
 Used university high-throughput computing cluster to assembly whole genomes.
 
+`2010–2011`
+**Research Intern** University of Wisconsin International Genetically Engineered Machines Team (iGEM)<br>
+Lab of Brian Pfleger, Department of Chemical and Biological Engineering<br>
+Developed of recombination based genetic circuit in E. Coli for detection of sequential environmental input
+Developed of bacterial peptide delivery system for probiotic therapy. Helped bring team to Wisconsin's
+first iGEM gold award.
+
+`2008-2009`
+**Undergraduate Research Scholar** University of Wisconsin-Madison<br>
+Lab of Lingjun Li, Department of Chemistry<br>
+Used MALDI TOF/TOF mass spectrometry to analyze
+peptide-level responses to environmental stress in crustaceans.
+
+`2007-2008`
+**Undergraduate Researcher** University of Wisconsin-Madison<br>
+Lab of Mark Brownfield, School of Veterinary Medicine.<br>
+Used immunihistochemistry to identify lcoation of serotonin receptor 
+variants in rat brain and adrenal glands.
 
 ## [Publications](https://scholar.google.com/citations?user=X5KqrDIAAAAJ&hl=en)
 
