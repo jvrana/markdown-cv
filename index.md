@@ -159,13 +159,19 @@ Transcriptional logic. Dynamic genetic circuits. Biophysical modeling.
 
 `2018-present`
 **Software lead**, OLA Simple, Seattle, Washington
-Lead for automation software for innovative point of care lab diagnostics
+Lead for automation software for innovative point of care lab diagnostics. Developed
+code (Ruby/Ruby-on-Rails/Docker) the provides inventory tracking and highly reproducible protocol instruction 
+for clinical diagnostic assay to detect drug-resistance in HIV patients. Successfully implemented
+the diagnostic kit and software in Nairobi, Kenya to simulate low-resource settings.
+51/52 of researchers were able to successfully complete diagnostic assay
+using the software, many having never touched a pipette before.
 
 `2017-2018`
 **Amazon Catalyst Fellow** UW-Seattle<br>
 Development of digitally guided protocols and workflows in which users are able to design custom mammalian cell lines,
 develop experimental workflows to assay them, view and analyze data, and execute experiments, all from the comfort of
-a coffee shop.
+a coffee shop. Developed automation workflows for mammalian cell synthetic biology, including
+culturing, transfections, & lentiviral production and transfections.
 
 `2016-2017`
 **Workflow Developer** UW BIOFAB, University of Washington-Seattle<br>
