@@ -7,7 +7,7 @@ title: Justin Vrana's CV
 
 
 # Justin Vrana
-Synthetic biologist, researcher, programmer
+Synthetic biology, software, automation
 
 <div id="webaddress">
 <a href="mailto:jvrana@uw.edu">jvrana@uw.edu</a>
