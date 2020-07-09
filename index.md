@@ -20,7 +20,7 @@ Synthetic biology, software, automation
 
 ## Currently
 
-**PhD Candidate in Bioengineering at the University of Washington**<br>*(expected graduation: 2019/2020)*
+**PhD Candidate in Bioengineering at the University of Washington**<br>*(expected graduation: 2020)*
 
 ### Research interests
 
