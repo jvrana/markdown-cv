@@ -6,21 +6,29 @@ title: Justin Vrana's CV
 <!-- ### TODO update project description, update summary -->
 
 
-# Justin Vrana
-Synthetic biology, software, automation
-<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-0862-0824" href="https://orcid.org/0000-0002-0862-0824" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-0862-0824</a></div>
+# Justin Vrana 
+
+<div class="profilepic">
+  <img src="https://secure.gravatar.com/avatar/34f83b6276a1d76d40684e503179e6cd?s=200">
+</div>
+
+> sythetic biologist \| software engineer
+
 
 <div id="webaddress">
-<a href="mailto:jvrana@uw.edu">jvrana@uw.edu</a>
+<a href="mailto:justin.vrana@gmail.com">justin.vrana@gmail.com</a>
 | <a href="https://jvrana.github.io/markdown-cv/">jvrana.github.io</a>
 | <a href="https://www.linkedin.com/in/justin-vrana-bioe/">LinkedIn</a>
 | <a href="https://www.github.com/jvrana">GitHub</a>
 | <a href="https://scholar.google.com/citations?user=X5KqrDIAAAAJ&hl=en">Google Scholar</a>
+| <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-0862-0824" href="https://orcid.org/0000-0002-0862-0824" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-0862-0824</a></div>
 </div>
+
+<hr>
 
 ## Currently
 
-**PhD Candidate in Bioengineering at the University of Washington**<br>*(expected graduation: 2020)*
+**PhD Candidate in Bioengineering at the University of Washington**<br>*(expected graduation: June 2021)*
 
 ### Research interests
 
@@ -249,6 +257,23 @@ variants in rat brain and adrenal glands.
 <!-- A list is also available [online](https://scholar.google.com/citations?user=X5KqrDIAAAAJ&hl=en) -->
 
 ### Journals
+
+`2021`
+**Aquarium: open-source laboratory software for design, execution and data management**
+__Justin Vrana__, Orlando de Lange, Yaoyu Yang, Garrett Newman, Ayesha Saleem, Abraham Miller, Cameron Cordray, 
+Samer Halabiya, Michelle Parks, Eriberto Lopez, Sarah Goldberg, Benjamin Keller, Devin Strickland, Eric Klavins
+Oxford University Press Synthetic Biology (accpeted)
+
+`2021`
+**Simpler and faster Covid-19 testing: Strategies to streamline SARS-CoV-2 molecular assays**
+Nuttada Panpradist, Qin Wang, Parker S Ruth, Jack H Kotnik, Amy K Oreskovic, Abraham Miller, Samuel WA Stewart, 
+__Justin Vrana__, Peter D Han, Ingrid A Beck, Lea M Starita, Lisa M Frenkel, Barry R Lutz
+EBioMedicine 64, 103236
+
+`2019`
+**OLA-Simple: A software-guided HIV-1 drug resistance test for low-resource laboratories**
+N Panpradist, IA Beck, __J Vrana__, N Higa, D McIntyre, PS Ruth, I So, ...
+EBioMedicine 50, 34-44
 
 `2017`
 **Digital logic circuits in yeast with CRISPR-dCas9 NOR gates.**<br>

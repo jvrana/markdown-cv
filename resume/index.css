@@ -1,0 +1,198 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    color: #212121;
+    background-color: #f6f6f6;
+    font-family: 'Lato', sans-serif;
+    vertical-align: baseline;
+}
+
+b {
+    font-family: 'Lato Heavy', sans-serif;
+}
+
+i {
+    font-family: "Lato Light", sans-serif;
+}
+
+date {
+    font-family: "Lato Light", sans-serif;
+}
+
+h1 {
+    font-family: Lato;
+    font-size: 3em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 700;
+    line-height: 23px;
+}
+
+h3 {
+    font-family: Lato;
+    font-size: 1.5em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 700;
+    line-height: 23px;
+}
+
+p {
+    font-family: Lato;
+    font-size: 14px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    line-height: 23px;
+}
+
+blockquote {
+    font-family: Lato;
+    font-size: 17px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    line-height: 23px;
+}
+
+pre {
+    font-family: Lato;
+    font-size: 11px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    line-height: 23px;
+}
+
+/*h1, h2, h3, h4 {*/
+/*    font-weight: 400;*/
+/*    width: 80%;*/
+/*}*/
+
+h1 {
+    text-align: left;
+    font-size: 3em;
+    line-height: 1em;
+    position: relative;
+}
+
+h1 + p {
+    /*subtitle*/
+    font-style: italic;
+    font-size: 110%;
+}
+
+h2 {
+    font-size: 1.5em;
+}
+
+h3 {
+    font-size: 1em;
+}
+
+.title {
+    color: #000000
+}
+
+.top {
+    background-color: #ce4444;
+    height: 10em;
+    padding-top: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+}
+
+.flex {
+  display: flex;
+}
+
+.flex .item {
+    padding: 10px;
+}
+
+.pubentry {
+    align-self: center;
+}
+
+.publication > .date {
+    font-family: "Lato Thin", sans-serif;
+}
+
+.pubtitle {
+    font-family: 'Lato Medium', sans-serif;
+}
+
+.pubauthor {
+    font-family: 'Lato Light', sans-serif;
+}
+
+.pubauthor > emph {
+    font-family: 'Lato', sans-serif;
+    text-decoration: underline;
+}
+
+.wrapper {
+  display: grid;
+  grid-template-columns: repeat(8, 1fr);
+  gap: 10px;
+  grid-auto-rows: 100px;
+  grid-template-areas:
+    "a a a a a a a a"
+    "b b d d d d d d"
+    "b b d d d d d d"
+    "b b d d d d d d"
+    "b b d d d d d d";
+  align-items: start;
+}
+
+.item1 {
+  grid-area: a;
+}
+
+.item2 {
+  grid-area: b;
+}
+
+.item4 {
+  grid-area: d;
+    height: 3em;
+}
+
+
+
+/*.side {*/
+/*    background-color: #777782;*/
+/*    height: 10em;*/
+/*    padding-top: 30px;*/
+/*    padding-right: 30px;*/
+/*    padding-bottom: 30px;*/
+/*    padding-left: 30px;*/
+/*}*/
+
+/*.box {*/
+/*    display: flex;*/
+/*    align-items: flex-start;*/
+
+/*    justify-content: space-between;*/
+/*    height: 6em;*/
+/*}*/
+
+/*.box :first-child {*/
+/*    align-self: center;*/
+/*}*/
