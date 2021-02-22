@@ -17,9 +17,15 @@ time, mark, audio, video {
     font-size: 100%;
     font: inherit;
     color: #212121;
-    background-color: #f6f6f6;
+    /*background-color: #f6f6f6;*/
     font-family: 'Lato', sans-serif;
     vertical-align: baseline;
+}
+
+
+
+a:link {
+  color: #ff69b4;
 }
 
 b {
@@ -105,17 +111,14 @@ h3 {
     font-size: 1em;
 }
 
-.title {
-    color: #000000
-}
-
 .top {
-    background-color: #ce4444;
-    height: 10em;
+    background-color: #c6c6c6;
+    height: 4em;
     padding-top: 30px;
     padding-right: 30px;
     padding-bottom: 30px;
     padding-left: 30px;
+    color: #000000
 }
 
 .flex {
