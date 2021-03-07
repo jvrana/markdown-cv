@@ -257,7 +257,7 @@ table.experience {
     display: grid;
     border-collapse: collapse;
       /* These are just initial values which are overriden using JavaScript when a column is resized */
-    grid-template-columns: 75px 150px 150px 1fr;
+    grid-template-columns: 75px 75px 1fr;
     font-size: 80%;
 }
 
