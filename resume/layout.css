@@ -63,7 +63,7 @@ h3 {
 }
 .wrapper {
     display: grid;
-    grid-template-columns: 150px 1fr 20px 1fr 1fr 1fr 1fr 1fr;
+    grid-template-columns: 120px 1fr 20px 1fr 1fr 1fr 1fr 1fr;
     grid-auto-rows: minmax(100px, auto);
     grid-template-areas:
       "hd hd hd hd   hd   hd   hd   hd"
